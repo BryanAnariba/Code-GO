@@ -1,0 +1,16 @@
+PASO 1
+  importante abrir la terminal para ejecutar cualquier programa go
+
+PASO 2
+  despues de crear el programa ir en el cmd hasta la ruta donde se encuentre dicho programa creado
+
+  tecleas lo siguiente
+  go run nombre_archivo.go
+      luego tecleas
+  go run hello-world.go
+
+                            tambien construyes un exe con
+
+  go build hello-world.go
+        luego tecleas
+  hello-world.exe
